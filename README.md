@@ -2,4 +2,4 @@ Project name : Sungshine Airline
 
 Description:
 
-Implementing a flight booking page
+Implementing a flight booking page.
